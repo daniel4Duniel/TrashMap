@@ -7,7 +7,16 @@
 //
 
 import CoreData
+import Foundation
 
+
+struct saveModel {
+    
+    let context = AppDelegate.viewContext
+
+    
+     
+}
 
 
 

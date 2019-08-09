@@ -24,6 +24,10 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSLocationUsageDescription</key>
+	<string>To find the nearest trashCan, TrashMap needs your location !</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>To find the nearest trashCan, TrashMap needs your location !</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
